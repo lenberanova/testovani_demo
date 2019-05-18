@@ -6,4 +6,4 @@ python:
 install:
   - python -m pip install -U pytest
 script:
-  - python -m pytest test_rps.px
+  - python -m pytest test_rps.py
